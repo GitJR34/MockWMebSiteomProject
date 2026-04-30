@@ -1,10 +1,12 @@
-header {
+header  {
   text-align: center;
   background-color: #33ffd6;
   text-color: #b370edf0;
-}
-/* #0ed9a96b */
-body {
-  background-color: #e9701ba8;
-  text-color: #b370ed17;
-}
+        }
+/* (First) background-color: #0ed9a96b */
+body  {
+  background-color: #044816;
+  text-color: #2FBB4D; 
+      } 
+/* (First) background-color: #e9701ba8; */
+/* (First) text-color: #b370ed17; */
